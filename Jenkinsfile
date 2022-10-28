@@ -1,5 +1,5 @@
 def get_host () {
-    list_val = "${envn}"
+    list_val = env.envn
     return (list_val)   
     
 }
