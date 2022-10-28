@@ -1,5 +1,5 @@
 def get_host () {
-    list_val = ("1","2","3","4","5","6")
+    list_val = ["1","2","3","4","5","6"]
     return (list_val)   
     
 }
